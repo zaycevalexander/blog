@@ -131,5 +131,5 @@ EMAIL_HOST = 'smtp.mail.ru'
 EMAIL_PORT = 2525
 EMAIL_USE_TLS = True
 EMAIL_USE_SSL = False
-EMAIL_HOST_USER = 'for469@mail.ru'
-EMAIL_HOST_PASSWORD = 'xT9EsReucKj5J0vTb7CR'
+EMAIL_HOST_USER = 'username'
+EMAIL_HOST_PASSWORD = 'password'
